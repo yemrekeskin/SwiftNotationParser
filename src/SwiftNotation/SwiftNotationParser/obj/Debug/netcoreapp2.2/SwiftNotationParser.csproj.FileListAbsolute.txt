@@ -1,0 +1,9 @@
+C:\Users\castor\Desktop\SwiftNotation\SwiftNotationParser\bin\Debug\netcoreapp2.2\SwiftNotationParser.deps.json
+C:\Users\castor\Desktop\SwiftNotation\SwiftNotationParser\bin\Debug\netcoreapp2.2\SwiftNotationParser.dll
+C:\Users\castor\Desktop\SwiftNotation\SwiftNotationParser\bin\Debug\netcoreapp2.2\SwiftNotationParser.pdb
+C:\Users\castor\Desktop\SwiftNotation\SwiftNotationParser\obj\Debug\netcoreapp2.2\SwiftNotationParser.csproj.CoreCompileInputs.cache
+C:\Users\castor\Desktop\SwiftNotation\SwiftNotationParser\obj\Debug\netcoreapp2.2\SwiftNotationParser.AssemblyInfoInputs.cache
+C:\Users\castor\Desktop\SwiftNotation\SwiftNotationParser\obj\Debug\netcoreapp2.2\SwiftNotationParser.AssemblyInfo.cs
+C:\Users\castor\Desktop\SwiftNotation\SwiftNotationParser\obj\Debug\netcoreapp2.2\SwiftNotationParser.dll
+C:\Users\castor\Desktop\SwiftNotation\SwiftNotationParser\obj\Debug\netcoreapp2.2\SwiftNotationParser.pdb
+C:\Users\castor\Desktop\SwiftNotation\SwiftNotationParser\obj\Debug\netcoreapp2.2\SwiftNotationParser.csprojAssemblyReference.cache

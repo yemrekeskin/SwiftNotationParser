@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SwiftNotation</id>
+    <version>1.0.0</version>
+    <authors>SwiftNotation</authors>
+    <owners>SwiftNotation</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\castor\Desktop\SwiftNotation\SwiftNotation\bin\Debug\netcoreapp2.2\SwiftNotation.runtimeconfig.json" target="lib\netcoreapp2.2\SwiftNotation.runtimeconfig.json" />
+    <file src="C:\Users\castor\Desktop\SwiftNotation\SwiftNotation\bin\Debug\netcoreapp2.2\SwiftNotation.dll" target="lib\netcoreapp2.2\SwiftNotation.dll" />
+  </files>
+</package>
