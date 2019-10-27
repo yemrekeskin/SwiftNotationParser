@@ -208,7 +208,7 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "SwiftNotationParser/1.0.0": {
+      "SwiftNotationParser/1.0.1": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "compile": {
@@ -690,7 +690,7 @@
         "netstandard.library.nuspec"
       ]
     },
-    "SwiftNotationParser/1.0.0": {
+    "SwiftNotationParser/1.0.1": {
       "type": "project",
       "path": "../SwiftNotationParser/SwiftNotationParser.csproj",
       "msbuildProject": "../SwiftNotationParser/SwiftNotationParser.csproj"
@@ -699,7 +699,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.NETCore.App >= 2.2.0",
-      "SwiftNotationParser >= 1.0.0"
+      "SwiftNotationParser >= 1.0.1"
     ]
   },
   "packageFolders": {
@@ -709,11 +709,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\castor\\Desktop\\SwiftNotation\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\castor\\Desktop\\GitHub\\SwiftNotationParser\\src\\SwiftNotation\\ConsoleApp\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "C:\\Users\\castor\\Desktop\\SwiftNotation\\ConsoleApp\\ConsoleApp.csproj",
+      "projectPath": "C:\\Users\\castor\\Desktop\\GitHub\\SwiftNotationParser\\src\\SwiftNotation\\ConsoleApp\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\castor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\castor\\Desktop\\SwiftNotation\\ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\castor\\Desktop\\GitHub\\SwiftNotationParser\\src\\SwiftNotation\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -732,8 +732,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\castor\\Desktop\\SwiftNotation\\SwiftNotationParser\\SwiftNotationParser.csproj": {
-              "projectPath": "C:\\Users\\castor\\Desktop\\SwiftNotation\\SwiftNotationParser\\SwiftNotationParser.csproj"
+            "C:\\Users\\castor\\Desktop\\GitHub\\SwiftNotationParser\\src\\SwiftNotation\\SwiftNotationParser\\SwiftNotationParser.csproj": {
+              "projectPath": "C:\\Users\\castor\\Desktop\\GitHub\\SwiftNotationParser\\src\\SwiftNotation\\SwiftNotationParser\\SwiftNotationParser.csproj"
             }
           }
         }

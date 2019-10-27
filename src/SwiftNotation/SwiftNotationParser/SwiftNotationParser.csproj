@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
+    <PackageIconUrl>https://raw.githubusercontent.com/yemrekeskin/SwiftNotationParser/master/nuget/package_ico.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/yemrekeskin/SwiftNotationParser</RepositoryUrl>
+    <PackageTags>regex, swift, mt message</PackageTags>
+    <PackageProjectUrl>https://github.com/yemrekeskin/SwiftNotationParser</PackageProjectUrl>
+    <Copyright>yemrekeskin © 2019</Copyright>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>

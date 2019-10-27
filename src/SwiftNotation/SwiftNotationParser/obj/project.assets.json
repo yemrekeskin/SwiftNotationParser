@@ -691,13 +691,13 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
-      "projectUniqueName": "C:\\Users\\castor\\Desktop\\SwiftNotation\\SwiftNotationParser\\SwiftNotationParser.csproj",
+      "projectUniqueName": "C:\\Users\\castor\\Desktop\\GitHub\\SwiftNotationParser\\src\\SwiftNotation\\SwiftNotationParser\\SwiftNotationParser.csproj",
       "projectName": "SwiftNotationParser",
-      "projectPath": "C:\\Users\\castor\\Desktop\\SwiftNotation\\SwiftNotationParser\\SwiftNotationParser.csproj",
+      "projectPath": "C:\\Users\\castor\\Desktop\\GitHub\\SwiftNotationParser\\src\\SwiftNotation\\SwiftNotationParser\\SwiftNotationParser.csproj",
       "packagesPath": "C:\\Users\\castor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\castor\\Desktop\\SwiftNotation\\SwiftNotationParser\\obj\\",
+      "outputPath": "C:\\Users\\castor\\Desktop\\GitHub\\SwiftNotationParser\\src\\SwiftNotation\\SwiftNotationParser\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

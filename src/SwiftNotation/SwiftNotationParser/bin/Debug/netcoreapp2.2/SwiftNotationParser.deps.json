@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "SwiftNotationParser/1.0.0": {
+      "SwiftNotationParser/1.0.1": {
         "runtime": {
           "SwiftNotationParser.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "SwiftNotationParser/1.0.0": {
+    "SwiftNotationParser/1.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
