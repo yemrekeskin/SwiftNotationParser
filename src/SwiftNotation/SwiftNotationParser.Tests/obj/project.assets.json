@@ -1618,7 +1618,7 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "SwiftNotationParser/1.0.1": {
+      "SwiftNotationParser/1.0.2": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "compile": {
@@ -5817,7 +5817,7 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "SwiftNotationParser/1.0.1": {
+    "SwiftNotationParser/1.0.2": {
       "type": "project",
       "path": "../SwiftNotationParser/SwiftNotationParser.csproj",
       "msbuildProject": "../SwiftNotationParser/SwiftNotationParser.csproj"
@@ -5829,7 +5829,7 @@
       "MSTest.TestFramework >= 1.3.2",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.2.0",
-      "SwiftNotationParser >= 1.0.1"
+      "SwiftNotationParser >= 1.0.2"
     ]
   },
   "packageFolders": {

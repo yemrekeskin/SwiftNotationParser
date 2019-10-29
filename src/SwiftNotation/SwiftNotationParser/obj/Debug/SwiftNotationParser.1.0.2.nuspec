@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SwiftNotationParser</id>
+    <version>1.0.2</version>
+    <authors>SwiftNotationParser</authors>
+    <owners>SwiftNotationParser</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/yemrekeskin/SwiftNotationParser</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/yemrekeskin/SwiftNotationParser/master/nuget/package_ico.png</iconUrl>
+    <description>value = "A" + "123456" + "ABC" + "1234,";</description>
+    <copyright>yemrekeskin © 2019</copyright>
+    <tags>regex, swift, mt message</tags>
+    <repository url="https://github.com/yemrekeskin/SwiftNotationParser" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\SwiftNotationParser\bin\Debug\netcoreapp2.2\SwiftNotationParser.dll" target="lib\netcoreapp2.2\SwiftNotationParser.dll" />
+  </files>
+</package>

@@ -691,7 +691,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "restore": {
       "projectUniqueName": "C:\\Users\\castor\\Desktop\\GitHub\\SwiftNotationParser\\src\\SwiftNotation\\SwiftNotationParser\\SwiftNotationParser.csproj",
       "projectName": "SwiftNotationParser",

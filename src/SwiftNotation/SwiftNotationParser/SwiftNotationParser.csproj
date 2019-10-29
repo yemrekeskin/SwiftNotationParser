@@ -7,7 +7,8 @@
     <PackageTags>regex, swift, mt message</PackageTags>
     <PackageProjectUrl>https://github.com/yemrekeskin/SwiftNotationParser</PackageProjectUrl>
     <Copyright>yemrekeskin © 2019</Copyright>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
+    <Description>value = "A" + "123456" + "ABC" + "1234,";</Description>
   </PropertyGroup>
 
 </Project>
