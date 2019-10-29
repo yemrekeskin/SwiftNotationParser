@@ -14,6 +14,12 @@ The Usage Guideline Editor allows the formalization of a field/element format as
 **Here is a simplified definition of those two attributes:**
 ![enter image description here](https://raw.githubusercontent.com/yemrekeskin/SwiftNotationParser/master/nuget/MT_Format.png)
 
+## MT Format Examples
+- 6!n = 6 numeric, fixed length
+- 6n = numeric up to 6 characters
+- 1!e = one blank space
+- 6*50x = up to 6 lines of up to 50 characters
+
 ## Features
  - parses the message tag fields and sub-fields
  - parses bic code (business Institution code)  or swift codes in other words
