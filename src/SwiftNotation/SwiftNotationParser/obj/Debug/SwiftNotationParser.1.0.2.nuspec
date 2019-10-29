@@ -8,7 +8,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectUrl>https://github.com/yemrekeskin/SwiftNotationParser</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/yemrekeskin/SwiftNotationParser/master/nuget/package_ico.png</iconUrl>
-    <description>value = "A" + "123456" + "ABC" + "1234,";</description>
+    <description>SwiftNotationParser provides parsing field/element used in MT messages for Financial SWIFT Network</description>
     <copyright>yemrekeskin © 2019</copyright>
     <tags>regex, swift, mt message</tags>
     <repository url="https://github.com/yemrekeskin/SwiftNotationParser" />

@@ -8,7 +8,7 @@
     <PackageProjectUrl>https://github.com/yemrekeskin/SwiftNotationParser</PackageProjectUrl>
     <Copyright>yemrekeskin © 2019</Copyright>
     <Version>1.0.2</Version>
-    <Description>value = "A" + "123456" + "ABC" + "1234,";</Description>
+    <Description>SwiftNotationParser provides parsing field/element used in MT messages for Financial SWIFT Network</Description>
   </PropertyGroup>
 
 </Project>

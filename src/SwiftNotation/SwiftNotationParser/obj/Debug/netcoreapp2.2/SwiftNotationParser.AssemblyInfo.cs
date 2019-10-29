@@ -14,7 +14,8 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SwiftNotationParser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("yemrekeskin © 2019")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("value = \"A\" + \"123456\" + \"ABC\" + \"1234,\";")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("SwiftNotationParser provides parsing field/element used in MT messages for Financ" +
+    "ial SWIFT Network")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SwiftNotationParser")]
