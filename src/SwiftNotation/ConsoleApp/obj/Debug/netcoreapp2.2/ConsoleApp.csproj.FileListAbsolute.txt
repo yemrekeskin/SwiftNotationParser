@@ -12,3 +12,17 @@ C:\Users\castor\Desktop\SwiftNotation\ConsoleApp\obj\Debug\netcoreapp2.2\Console
 C:\Users\castor\Desktop\SwiftNotation\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csproj.CopyComplete
 C:\Users\castor\Desktop\SwiftNotation\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.dll
 C:\Users\castor\Desktop\SwiftNotation\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.pdb
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.deps.json
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.json
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.dev.json
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.dll
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.pdb
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\ConsoleApp\bin\Debug\netcoreapp2.2\SwiftNotationParser.dll
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\ConsoleApp\bin\Debug\netcoreapp2.2\SwiftNotationParser.pdb
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfo.cs
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csproj.CopyComplete
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.dll
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.pdb

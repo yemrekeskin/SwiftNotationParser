@@ -1617,6 +1617,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "SwiftNotationParser/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/SwiftNotationParser.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SwiftNotationParser.dll": {}
+        }
       }
     }
   },
@@ -5806,6 +5816,11 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "SwiftNotationParser/1.0.1": {
+      "type": "project",
+      "path": "../SwiftNotationParser/SwiftNotationParser.csproj",
+      "msbuildProject": "../SwiftNotationParser/SwiftNotationParser.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5813,7 +5828,8 @@
       "MSTest.TestAdapter >= 1.3.2",
       "MSTest.TestFramework >= 1.3.2",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
-      "Microsoft.NETCore.App >= 2.2.0"
+      "Microsoft.NETCore.App >= 2.2.0",
+      "SwiftNotationParser >= 1.0.1"
     ]
   },
   "packageFolders": {
@@ -5845,7 +5861,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\castor\\Desktop\\GitHub\\SwiftNotationParser\\src\\SwiftNotation\\SwiftNotationParser\\SwiftNotationParser.csproj": {
+              "projectPath": "C:\\Users\\castor\\Desktop\\GitHub\\SwiftNotationParser\\src\\SwiftNotation\\SwiftNotationParser\\SwiftNotationParser.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

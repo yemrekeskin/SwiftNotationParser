@@ -8,13 +8,13 @@
     ".NETCoreApp,Version=v2.2": {
       "ConsoleApp/1.0.0": {
         "dependencies": {
-          "SwiftNotationParser": "1.0.0"
+          "SwiftNotationParser": "1.0.1"
         },
         "runtime": {
           "ConsoleApp.dll": {}
         }
       },
-      "SwiftNotationParser/1.0.0": {
+      "SwiftNotationParser/1.0.1": {
         "runtime": {
           "SwiftNotationParser.dll": {}
         }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "SwiftNotationParser/1.0.0": {
+    "SwiftNotationParser/1.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

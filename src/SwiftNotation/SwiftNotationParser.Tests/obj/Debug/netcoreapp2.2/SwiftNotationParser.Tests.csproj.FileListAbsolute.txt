@@ -1,0 +1,17 @@
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\SwiftNotationParser.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\SwiftNotationParser.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\SwiftNotationParser.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\SwiftNotationParser.Tests\bin\Debug\netcoreapp2.2\SwiftNotationParser.Tests.deps.json
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\SwiftNotationParser.Tests\bin\Debug\netcoreapp2.2\SwiftNotationParser.Tests.runtimeconfig.json
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\SwiftNotationParser.Tests\bin\Debug\netcoreapp2.2\SwiftNotationParser.Tests.runtimeconfig.dev.json
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\SwiftNotationParser.Tests\bin\Debug\netcoreapp2.2\SwiftNotationParser.Tests.dll
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\SwiftNotationParser.Tests\bin\Debug\netcoreapp2.2\SwiftNotationParser.Tests.pdb
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\SwiftNotationParser.Tests\bin\Debug\netcoreapp2.2\SwiftNotationParser.dll
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\SwiftNotationParser.Tests\bin\Debug\netcoreapp2.2\SwiftNotationParser.pdb
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\SwiftNotationParser.Tests\obj\Debug\netcoreapp2.2\SwiftNotationParser.Tests.csprojAssemblyReference.cache
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\SwiftNotationParser.Tests\obj\Debug\netcoreapp2.2\SwiftNotationParser.Tests.csproj.CoreCompileInputs.cache
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\SwiftNotationParser.Tests\obj\Debug\netcoreapp2.2\SwiftNotationParser.Tests.AssemblyInfoInputs.cache
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\SwiftNotationParser.Tests\obj\Debug\netcoreapp2.2\SwiftNotationParser.Tests.AssemblyInfo.cs
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\SwiftNotationParser.Tests\obj\Debug\netcoreapp2.2\SwiftNotationParser.Tests.csproj.CopyComplete
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\SwiftNotationParser.Tests\obj\Debug\netcoreapp2.2\SwiftNotationParser.Tests.dll
+C:\Users\castor\Desktop\GitHub\SwiftNotationParser\src\SwiftNotation\SwiftNotationParser.Tests\obj\Debug\netcoreapp2.2\SwiftNotationParser.Tests.pdb

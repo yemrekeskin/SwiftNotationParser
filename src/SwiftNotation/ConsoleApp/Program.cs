@@ -26,6 +26,15 @@ namespace ConsoleApp
             SwiftParser parser = new SwiftParser(notation);
             var result = parser.parse(value);
 
+            var bic = Bic.GetBic("HASPDEHHXXX");
+            Console.WriteLine("Instution Code --> {0}", bic.InstitutionCode);
+            Console.WriteLine("Country Code   --> {0}" ,bic.CountryCode);
+            Console.WriteLine("LocationCode   --> {0}", bic.LocationCode);
+            Console.WriteLine("BranchCode     --> {0}", bic.BranchCode);
+
+            var bic1 = Bic.GetBic("HASPDEHH");
+
+
             Console.ReadLine();
         }
     }
