@@ -1,5 +1,6 @@
-# SwiftNotationParser
+<img src="https://raw.githubusercontent.com/yemrekeskin/SwiftNotationParser/master/nuget/package_ico.png" width="100" height="70"> 
 
+# SwiftNotationParser
 This project provides parsing field/element used in MT messages for Financial SWIFT Messages 
 > **Note:** SWIFT  = Society for Worldwide Inter-bank Financial Telecommunication
 
